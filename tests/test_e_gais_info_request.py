@@ -1,8 +1,10 @@
 import unittest
 from controllers.e_gais_info_request import EGAISInfoRequest
 from controllers.e_gais_request import EGAISRequest
-from settings import requestid,token
+from settings import requestid,token,blistRegionCodes,bregionCode,brole
 import logging
+import urllib3
+urllib3.disable_warnings()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 file_handler = logging.FileHandler('app.log')
@@ -17,9 +19,19 @@ class TestEGAISInfoRequest(unittest.TestCase):
     def get_token(self):
         token_base_url = 'https://lk-test.egais.ru/api-lc-license/tools/token'
         info_base_url = 'https://lk-test.egais.ru/api-lc-license/dashboard/license/request'
-        listRegionCodes = 77
-        regionCode = 77
-        role = 'admin'
+        if brole!="":
+            role = brole
+        else:
+            role='developer'
+        
+        if bregionCode!="":
+            regionCode=bregionCode
+        else:
+            regionCode = 77
+        if blistRegionCodes!="":
+            listRegionCodes=blistRegionCodes
+        else:
+            listRegionCodes=77
         license_id = requestid
         # jsessionid = '2D76793EF3BDCC914ECF896C887FB2AA'
 
@@ -43,6 +55,7 @@ class TestEGAISInfoRequest(unittest.TestCase):
         self.license_id = requestid
         if token=="":
             self.token = self.get_token()
+            logger.info(f"Получили токен {self.token}")
         else:
             self.token=token
         self.jsessionid = '2D76793EF3BDCC914ECF896C887FB2AA'
