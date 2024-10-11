@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+    xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart"
+    xmlns:cdr="http://schemas.openxmlformats.org/drawingml/2006/chartDrawing"
+    xmlns:c14="http://schemas.microsoft.com/office/drawing/2007/8/2/chart"
+    xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram"
+    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"
+    xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing"
+    xmlns:dsp="http://schemas.microsoft.com/office/drawing/2008/diagram"
+    xmlns:xvml="urn:schemas-microsoft-com:office:excel"
+    xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint"
+    xmlns:cppr="http://schemas.microsoft.com/office/2006/coverPageProps"
+    xmlns:odx="http://opendope.org/xpaths" xmlns:odc="http://opendope.org/conditions"
+    xmlns:odq="http://opendope.org/questions" xmlns:oda="http://opendope.org/answers"
+    xmlns:odi="http://opendope.org/components"
+    xmlns:odgm="http://opendope.org/SmartArt/DataHierarchy"
+    xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+    xmlns:wetp="http://schemas.microsoft.com/office/webextensions/taskpanes/2010/11"
+    xmlns:we="http://schemas.microsoft.com/office/webextensions/webextension/2010/11"
+    xmlns:comp="http://schemas.openxmlformats.org/drawingml/2006/compatibility"
+    xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas"
+    mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+    <w:body><!-- Modified by docx4j 6.1.2 (Apache licensed) using REFERENCE JAXB in Oracle Java
+        14.0.2 on Linux -->
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="ae" />
+                <w:tblW w:w="10206" w:type="dxa" />
+                <w:tblLayout w:type="fixed" />
+                <w:tblLook w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                    w:noHBand="0" w:noVBand="1" w:val="04A0" />
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="5212" />
+                <w:gridCol w:w="4994" />
+            </w:tblGrid>
+            <w:tr w:rsidRPr="00AA710C" w:rsidR="00666398" w:rsidTr="00AE564F" w14:paraId="0FA73260"
+                w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="715" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="10206" w:type="dxa" />
+                        <w:gridSpan w:val="2" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p w:rsidRPr="0062717E" w:rsidR="00666398" w:rsidP="00AE564F"
+                        w:rsidRDefault="0062717E" w14:paraId="1472B56F" w14:textId="77777777">
+                        <w:pPr>
+                            <w:pStyle w:val="23" />
+                            <w:spacing w:line="276" w:lineRule="auto" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="28" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00326898">
+                            <w:rPr>
+                                <w:noProof />
+                                <w:color w:val="00508E" />
+                            </w:rPr>
+                            <w:drawing>
+                                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                                    <wp:extent cx="541482" cy="653143" />
+                                    <wp:effectExtent l="0" t="0" r="0" b="0" />
+                                    <wp:docPr id="6" name="Рисунок 6"
+                                        descr="C:\Users\komchihin-js\AppData\Local\Microsoft\Windows\INetCache\Content.Word\emblem_black_bordered.emf" />
+                                    <wp:cNvGraphicFramePr>
+                                        <a:graphicFrameLocks noChangeAspect="true" />
+                                    </wp:cNvGraphicFramePr>
+                                    <a:graphic>
+                                        <a:graphicData
+                                            uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:pic>
+                                                <pic:nvPicPr>
+                                                    <pic:cNvPr id="0" name="Picture 13"
+                                                        descr="C:\Users\komchihin-js\AppData\Local\Microsoft\Windows\INetCache\Content.Word\emblem_black_bordered.emf" />
+                                                    <pic:cNvPicPr>
+                                                        <a:picLocks noChangeAspect="true"
+                                                            noChangeArrowheads="true" />
+                                                    </pic:cNvPicPr>
+                                                </pic:nvPicPr>
+                                                <pic:blipFill>
+                                                    <a:blip cstate="print" r:embed="rId9">
+                                                        <a:extLst>
+                                                            <a:ext
+                                                                uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                                <a14:useLocalDpi
+                                                                    xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"
+                                                                    xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+                                                                    xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+                                                                    xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+                                                                    xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+                                                                    xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+                                                                    xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+                                                                    xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+                                                                    xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+                                                                    xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+                                                                    xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+                                                                    xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+                                                                    xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+                                                                    xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+                                                                    xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+                                                                    xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                                                                    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                                                                    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                                                                    val="0" />
+                                                            </a:ext>
+                                                        </a:extLst>
+                                                    </a:blip>
+                                                    <a:srcRect />
+                                                    <a:stretch>
+                                                        <a:fillRect />
+                                                    </a:stretch>
+                                                </pic:blipFill>
+                                                <pic:spPr bwMode="auto">
+                                                    <a:xfrm>
+                                                        <a:off x="0" y="0" />
+                                                        <a:ext cx="566242" cy="683009" />
+                                                    </a:xfrm>
+                                                    <a:prstGeom prst="rect">
+                                                        <a:avLst />
+                                                    </a:prstGeom>
+                                                    <a:noFill />
+                                                    <a:ln>
+                                                        <a:noFill />
+                                                    </a:ln>
+                                                </pic:spPr>
+                                            </pic:pic>
+                                        </a:graphicData>
+                                    </a:graphic>
+                                </wp:inline>
+                            </w:drawing>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidRPr="00AA710C" w:rsidR="00AE564F" w:rsidTr="0062717E" w14:paraId="2F20CA5D"
+                w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="644" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="10206" w:type="dxa" />
+                        <w:gridSpan w:val="2" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p w:rsidR="0062717E" w:rsidP="00967B9D" w:rsidRDefault="00AE564F"
+                        w14:paraId="1C44588E" w14:textId="77777777">
+                        <w:pPr>
+                            <w:pStyle w:val="23" />
+                            <w:spacing w:before="160" w:line="192" w:lineRule="auto" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00967B9D">
+                            <w:rPr>
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>ФЕДЕРАЛЬНАЯ СЛУЖБА</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00967B9D">
+                            <w:rPr>
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:br />
+                        </w:r>
+                        <w:r w:rsidRPr="00967B9D" w:rsidR="0062717E">
+                            <w:rPr>
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>ПО контролю за АЛКОГОЛЬНым и табачным РЫНКами</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00967B9D" w:rsidR="0062717E">
+                            <w:rPr>
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:br />
+                            <w:t>(РОСАЛКОГОлЬтабакконтроль)</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidRPr="001278FE" w:rsidR="00967B9D" w:rsidP="00967B9D"
+                        w:rsidRDefault="00967B9D" w14:paraId="05060499" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:before="100" w:line="240" w:lineRule="auto" />
+                            <w:ind w:firstLine="0" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>МЕЖРЕГИОНАЛЬНОЕ УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ПО КОНТРОЛЮ</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:br />
+                        </w:r>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>ЗА</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> АЛКОГОЛЬНЫМ И ТАБАЧНЫМ РЫНКАМИ</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:br />
+                            <w:t xml:space="preserve">ПО </w:t>
+                        </w:r>
+                        <w:r w:rsidR="00970377">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>ЦЕНТРАЛЬНОМУ</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> ФЕДЕРАЛЬНОМУ ОКРУГУ</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidRPr="001278FE" w:rsidR="00967B9D" w:rsidP="00967B9D"
+                        w:rsidRDefault="00967B9D" w14:paraId="52EB2039" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:before="100" w:line="240" w:lineRule="auto" />
+                            <w:ind w:firstLine="0" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:caps />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">(мру </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart" />
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>Росалкогольтабакконтроля</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd" />
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> по </w:t>
+                        </w:r>
+                        <w:r w:rsidR="00970377">
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>Центральному</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="001278FE">
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve"> федеральному округу)</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidRPr="0062717E" w:rsidR="00B845F0" w:rsidP="00967B9D"
+                        w:rsidRDefault="00967B9D" w14:paraId="213FFEDB" w14:textId="77777777">
+                        <w:pPr>
+                            <w:pStyle w:val="23" />
+                            <w:spacing w:before="240" w:after="240" w:line="192" w:lineRule="auto" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:spacing w:val="120" />
+                                <w:sz w:val="32" />
+                                <w:szCs w:val="32" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:spacing w:val="120" />
+                                <w:sz w:val="32" />
+                                <w:szCs w:val="32" />
+                            </w:rPr>
+                            <w:t>ПРИКА</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00967B9D">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman Полужирный"
+                                    w:hAnsi="Times New Roman Полужирный" />
+                                <w:b />
+                                <w:color w:val="00508E" />
+                                <w:spacing w:val="0" />
+                                <w:sz w:val="32" />
+                                <w:szCs w:val="32" />
+                            </w:rPr>
+                            <w:t>З</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00666398" w:rsidTr="00AE564F" w14:paraId="072C68F4" w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="283" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5212" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:sdt>
+                        <w:sdtPr>
+                            <w:rPr>
+                                <w:color w:val="000000" w:themeColor="text1" />
+                            </w:rPr>
+                            <w:id w:val="-1795131948" />
+                            <w:lock w:val="sdtContentLocked" />
+                            <w:placeholder>
+                                <w:docPart w:val="DefaultPlaceholder_1081868574" />
+                            </w:placeholder>
+                            <w:group />
+                        </w:sdtPr>
+                        <w:sdtEndPr>
+                            <w:rPr>
+                                <w:color w:val="FFFFFF" w:themeColor="background1" />
+                            </w:rPr>
+                        </w:sdtEndPr>
+                        <w:sdtContent>
+                            <w:p w:rsidR="00666398" w:rsidP="006F3EF1" w:rsidRDefault="00666398"
+                                w14:paraId="18000B1C" w14:textId="77777777">
+                                <w:pPr>
+                                    <w:spacing w:after="20" w:line="240" w:lineRule="auto" />
+                                    <w:ind w:left="284" w:firstLine="0" />
+                                    <w:jc w:val="left" />
+                                    <w:rPr>
+                                        <w:color w:val="000000" w:themeColor="text1" />
+                                    </w:rPr>
+                                </w:pPr>
+                                <w:r>
+                                    <w:rPr>
+                                        <w:color w:val="000000" w:themeColor="text1" />
+                                    </w:rPr>
+                                    <w:t xml:space="preserve">от </w:t>
+                                </w:r>
+                                <w:r w:rsidRPr="00EE30D9" w:rsidR="00EE30D9">
+                                    <w:rPr>
+                                        <w:color w:val="FFFFFF" w:themeColor="background1" />
+                                    </w:rPr>
+                                    <w:t>[REGDATESTAMP]</w:t>
+                                </w:r>
+                            </w:p>
+                        </w:sdtContent>
+                    </w:sdt>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4994" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:sdt>
+                        <w:sdtPr>
+                            <w:rPr>
+                                <w:color w:val="000000" w:themeColor="text1" />
+                            </w:rPr>
+                            <w:id w:val="1876889693" />
+                            <w:lock w:val="sdtContentLocked" />
+                            <w:placeholder>
+                                <w:docPart w:val="DefaultPlaceholder_1081868574" />
+                            </w:placeholder>
+                            <w:group />
+                        </w:sdtPr>
+                        <w:sdtEndPr>
+                            <w:rPr>
+                                <w:color w:val="FFFFFF" w:themeColor="background1" />
+                            </w:rPr>
+                        </w:sdtEndPr>
+                        <w:sdtContent>
+                            <w:p w:rsidR="00666398" w:rsidP="00EE30D9" w:rsidRDefault="00666398"
+                                w14:paraId="54B6E2EC" w14:textId="77777777">
+                                <w:pPr>
+                                    <w:spacing w:after="20" w:line="240" w:lineRule="auto" />
+                                    <w:ind w:left="2126" w:right="-675" w:firstLine="0" />
+                                    <w:jc w:val="left" />
+                                    <w:rPr>
+                                        <w:color w:val="000000" w:themeColor="text1" />
+                                    </w:rPr>
+                                </w:pPr>
+                                <w:r>
+                                    <w:rPr>
+                                        <w:color w:val="000000" w:themeColor="text1" />
+                                    </w:rPr>
+                                    <w:t xml:space="preserve">№ </w:t>
+                                </w:r>
+                                <w:r w:rsidRPr="00EE30D9" w:rsidR="00EE30D9">
+                                    <w:rPr>
+                                        <w:color w:val="FFFFFF" w:themeColor="background1" />
+                                    </w:rPr>
+                                    <w:t>[REGNUMSTAMP]</w:t>
+                                </w:r>
+                            </w:p>
+                        </w:sdtContent>
+                    </w:sdt>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00666398" w:rsidTr="00176B8B" w14:paraId="51582E2E" w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="74" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="10206" w:type="dxa" />
+                        <w:gridSpan w:val="2" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p w:rsidRPr="002D5E9B" w:rsidR="00666398" w:rsidP="00970377"
+                        w:rsidRDefault="00967B9D" w14:paraId="4DC31DB9" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="auto" />
+                            <w:ind w:firstLine="0" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:color w:val="171796" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="002D5E9B">
+                            <w:rPr>
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t xml:space="preserve">г. </w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="002D5E9B" w:rsidR="00970377">
+                            <w:rPr>
+                                <w:color w:val="00508E" />
+                                <w:sz w:val="24" />
+                                <w:szCs w:val="24" />
+                            </w:rPr>
+                            <w:t>Москва</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidR="00516F7F" w:rsidP="00967B9D" w:rsidRDefault="00516F7F" w14:paraId="3EF06ABC"
+            w14:textId="77777777" />
+        <w:p w:rsidRPr="00E70DC0" w:rsidR="00AA6B2E" w:rsidP="00E70DC0" w:rsidRDefault="001C314A"
+            w14:paraId="0ED6F8E8" w14:textId="389B013F">
+            <w:pPr>
+                <w:spacing w:line="276" w:lineRule="auto" />
+                <w:ind w:firstLine="0" />
+                <w:jc w:val="center" />
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="001C314A">
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+                <w:t>О проведении выездной оценки соответствия заявителя</w:t>
+            </w:r>
+            <w:r w:rsidR="00E70DC0">
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+                <w:br />
+            </w:r>
+            <w:r w:rsidRPr="001C314A">
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+                <w:t>обязательным требованиям в области производства и оборота</w:t>
+            </w:r>
+            <w:r w:rsidR="00E70DC0">
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+                <w:br />
+            </w:r>
+            <w:r w:rsidRPr="001C314A">
+                <w:rPr>
+                    <w:rFonts w:cs="Calibri" />
+                    <w:b />
+                </w:rPr>
+                <w:t>этилового спирта, алкогольной и спиртосодержащей продукции</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="004B2105" w:rsidP="00967B9D" w:rsidRDefault="004B2105" w14:paraId="68179FCA"
+            w14:textId="19425E7F" />
+        <w:p w:rsidRPr="001C314A" w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A"
+            w14:paraId="4E42AA25" w14:textId="77777777">
+            <w:pPr>
+                <w:rPr>
+                    <w:spacing w:val="40" />
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="001C314A">
+                <w:rPr>
+                    <w:spacing w:val="40" />
+                </w:rPr>
+                <w:t>Приказываю:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="6E863C7C"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">1. Провести оценку соответствия обязательным требованиям в области производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции (далее – оценка соответствия) в отношении </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">АО «ЦентрИнформ» </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="2ECB423B"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve"> ИНН </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">7841051711</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="46B89B8A"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">2. Адрес местонахождения организации: </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">298405 Республика Крым 91 БАХЧИСАРАЙСКИЙ 1 1 БАХЧИСАРАЙ Г БАХЧИСАРАЙ УЛ ЛЕНИНА Д.106</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="3333C943"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">Адрес ведения деятельности: </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">601915,РОССИЯ,ВЛАДИМИРСКАЯ ОБЛ,,КОВРОВ Г,,КОМСОМОЛЬСКАЯ УЛ/ СТРОИТЕЛЕЙ УЛ,95/2,,</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="64BCD7CB"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>3. Назначить лицом, уполномоченным на проведение оценки соответствия:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="3BAF7963"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">gfhfg</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="55D0A15B"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>4. Привлечь к проведению оценки соответствия в качестве экспертов,
+                    представителей экспертных организаций следующих лиц:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="3FCB0A75"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">hfgh</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="6B5D01A5"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>5. Настоящая оценка соответствия проводится в рамках лицензионного контроля в
+                    области производства и оборота этилового спирта, алкогольной и спиртосодержащей
+                    продукции (реестровый номер функции 1000012087 в ФГИС «Федеральный реестр
+                    государственных и муниципальных услуг (функций)»).</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="6A14FA4B"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>6. Установить, что:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="41D30A0E"
+            w14:textId="586348EA">
+            <w:r>
+                <w:t xml:space="preserve">Настоящая оценка соответствия проводится с целью: предоставления государственной услуги по лицензированию производства и оборота этилового спирта, алкогольной (за исключением розничной продажи) и спиртосодержащей продукции </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">АО «ЦентрИнформ» </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">, от которого в Федеральную службу по регулированию алкогольного рынка поступило Заявление </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">о выдаче лицензии</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"> от </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">11.10.2024</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"> № </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">Л-891</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">, вид деятельности "</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">закупка, хранение и поставки алкогольной продукции</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">", во исполнение поручений Федеральной службы по регулированию алкогольного рынка от 19.08.2021 № 14246/01-01; от 23.08.2021 № 14419/01-01.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="583589C2"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">Задачами настоящей оценки соответствия являются: </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">fgh</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"> и соответствия лицензиата лицензионным требованиям.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="18F2CD0B"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">7. Предметом настоящей оценки соответствия является: соответствие сведений, содержащихся в заявлении и документах </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">АО «ЦентрИнформ» </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"> Заявление </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">Заявление о выдаче лицензии</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">, а также соответствие лицензионным требованиям помещений, зданий, сооружений, технических средств, иных объектов, которые предполагается использовать лицензиатом при осуществлении лицензируемого вида деятельности (пункт 2 статьи 23.2 Федерального закона от 22.11.1995 № 171-ФЗ «О государственном регулировании производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции и об ограничении потребления (распития) алкогольной продукции» (далее по тексту – Федеральный закон № 171-ФЗ). </w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="35B0D23F"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">8. Срок проведения оценки соответствия: </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">1</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">. К проведению оценки соответствия приступить с </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">11</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">октября</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">2024</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">. Оценку соответствия окончить до </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">11</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">октября</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">2024</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="5B7E9E04"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">9. Правовые основания проведения оценки соответствия: Федеральный закон № 171-ФЗ; Федеральный закон от 26.12.2008 № 294-ФЗ «О защите прав юридических лиц и индивидуальных предпринимателей при осуществлении государственного контроля (надзора) и муниципального контроля» (пункт 4 статья 1 Закона); постановление Правительства РФ от 24.02.2009 № 154 «О Федеральной службе по регулированию алкогольного рынка», «Положение о Межрегиональном управлении Федеральной службы по регулированию алкогольного рынка по Центральному </w:t>
+            </w:r>
+            <w:r>
+                <w:lastRenderedPageBreak />
+                <w:t xml:space="preserve">федеральному </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:t>округу»,утвержденное</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"> приказом Росалкогольрегулирования от 30.08.2012 № 241.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="2380E535"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>10. Обязательные требования, подлежащие оценке соответствия:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="22E5EF5B"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-Федеральный закон № 171-ФЗ;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="6A1C4C60"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-Федеральный закон от 13.07.2015 № 218-ФЗ «О государственной регистрации</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="5AAAE24E"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>недвижимости»;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="68B8A599"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-Гражданский кодекс Российской Федерации;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="0EB5C191"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-постановление Правительства Российской Федерации от 31.12.2020 № 2466 «О
+                    ведении и функционировании единой государственной автоматизированной
+                    информационной системы учета объема производства и оборота этилового спирта,
+                    алкогольной и спиртосодержащей продукции»;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="6DCF8920"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-приказ Федеральной службы по регулированию алкогольного рынка от 17.12.2020 №
+                    405 «Об утверждении перечня видов основного технологического оборудования для
+                    производства и оборота этилового спирта, алкогольной и спиртосодержащей
+                    продукции» (далее по тексту – приказ Росалкогольрегулирования № 405);</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="4DCC8C55"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">-приказ Министерства финансов Российской Федерации от 27.11.2020 № 289н «Об утверждении Требований к складским помещениям, используемым для хранения алкогольной (за исключением пив и пивных напитков, сидра, </w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:r>
+                <w:t>пуаре</w:t>
+            </w:r>
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t>, медовухи) и спиртосодержащей (за исключением спиртосодержащих лекарственных
+                    средств и медицинских изделий) продукции, расфасованной в потребительскую тару
+                    (упаковку), при осуществлении деятельности по ее производству и обороту (за
+                    исключением розничной продажи)»</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="3B306E86"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>-Федеральный закон от 26.06.2008 № 102-ФЗ «Об обеспечении единства измерений»;</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="4C0CD5C2"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">-иные нормативно правовые акты: </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">sdf</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="23714D78"
+            w14:textId="77777777">
+            <w:r>
+                <w:t>11. В процессе оценки соответствия провести следующие мероприятия по контролю,
+                    необходимые для достижения целей и задач, а также оценить:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="4CB5ADD7"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="70DAE240"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="1826A697"
+            w14:textId="77777777">
+            <w:r>
+                <w:lastRenderedPageBreak />
+                <w:t xml:space="preserve">12. Перечень административных регламентов проведения мероприятий по контролю (при их наличии), необходимых для проведения оценки соответствия, административных регламентов взаимодействия (при их наличии): «Административный регламент предоставления Федеральной службой по регулированию алкогольного рынка государственной услуги по лицензированию производства и оборота этилового спирта, алкогольной (за исключением розничной продажи) и спиртосодержащей продукции, лицензированию производства, хранения, поставок и розничной продажи винодельческой продукции, произведенной сельскохозяйственными товаропроизводителями (организациями, индивидуальными предпринимателями, крестьянскими (фермерскими) хозяйствами), признаваемыми таковыми в соответствии с Федеральным законом «О развитии сельского хозяйства», утвержденный приказом Федеральной службы по регулированию алкогольного рынка от 12.08.2019 № 199. </w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="1DD1B3B8"
+            w14:textId="77777777">
+            <w:r>
+                <w:t xml:space="preserve">13. Материалы по результатам оценки соответствия представить в Росалкогольрегулирование не позднее </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">-</w:t>
+            </w:r>
+            <w:proofErr w:type="spellStart" />
+            <w:proofErr w:type="spellEnd" />
+            <w:r>
+                <w:t xml:space="preserve">.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="222FF0FA"
+            w14:textId="73184C10">
+            <w:r>
+                <w:t>14. При проведении оценки соответствия допускается использование фото-,
+                    видеосъемки, аудиозаписи, а также контрольных средств измерений. Контроль за
+                    исполнением настоящего приказа оставляю за собой.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="001C314A" w:rsidP="001C314A" w:rsidRDefault="001C314A" w14:paraId="062AF641"
+            w14:textId="77777777" />
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="ae" />
+                <w:tblW w:w="0" w:type="auto" />
+                <w:tblBorders>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:insideH w:val="nil" />
+                    <w:insideV w:val="nil" />
+                </w:tblBorders>
+                <w:tblLayout w:type="fixed" />
+                <w:tblLook w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                    w:noHBand="0" w:noVBand="1" w:val="04A0" />
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="3005" />
+                <w:gridCol w:w="4649" />
+                <w:gridCol w:w="2552" />
+            </w:tblGrid>
+            <w:tr w:rsidR="00F51A2F" w:rsidTr="00980BAF" w14:paraId="2A1EA2EB" w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="1531" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3005" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                        w14:paraId="6D59FB78" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="204" w:lineRule="auto" />
+                            <w:ind w:left="-113" w:firstLine="0" />
+                            <w:jc w:val="left" />
+                        </w:pPr>
+                        <w:bookmarkStart w:name="SIGNERPOST1" w:id="0" />
+                        <w:r>
+                            <w:t>Должность1</w:t>
+                        </w:r>
+                        <w:bookmarkEnd w:id="0" />
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4649" w:type="dxa" />
+                        <w:vMerge w:val="restart" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:sdt>
+                        <w:sdtPr>
+                            <w:rPr>
+                                <w:color w:val="FFFFFF" w:themeColor="background1" />
+                            </w:rPr>
+                            <w:id w:val="-108046128" />
+                            <w:lock w:val="sdtContentLocked" />
+                            <w:placeholder>
+                                <w:docPart w:val="DefaultPlaceholder_1081868574" />
+                            </w:placeholder>
+                            <w:group />
+                        </w:sdtPr>
+                        <w:sdtEndPr />
+                        <w:sdtContent>
+                            <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                                w14:paraId="30112ACC" w14:textId="77777777">
+                                <w:pPr>
+                                    <w:spacing w:line="240" w:lineRule="auto" />
+                                    <w:ind w:left="-113" w:firstLine="0" />
+                                </w:pPr>
+                                <w:r w:rsidRPr="00AC349D">
+                                    <w:rPr>
+                                        <w:color w:val="FFFFFF" w:themeColor="background1" />
+                                    </w:rPr>
+                                    <w:t>[SIGNERSTAMP1]</w:t>
+                                </w:r>
+                            </w:p>
+                        </w:sdtContent>
+                    </w:sdt>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2552" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                        <w:vAlign w:val="center" />
+                    </w:tcPr>
+                    <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                        w14:paraId="1DA3A5DC" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="204" w:lineRule="auto" />
+                            <w:ind w:right="-113" w:firstLine="0" />
+                            <w:jc w:val="right" />
+                        </w:pPr>
+                        <w:bookmarkStart w:name="SIGNERNAME1" w:id="1" />
+                        <w:r>
+                            <w:t>ФИО1</w:t>
+                        </w:r>
+                        <w:bookmarkEnd w:id="1" />
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F51A2F" w:rsidTr="00980BAF" w14:paraId="64A83912" w14:textId="77777777">
+                <w:trPr>
+                    <w:trHeight w:val="116" />
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3005" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                        w14:paraId="745CDB79" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="auto" />
+                            <w:ind w:left="-113" w:firstLine="0" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:sz w:val="10" />
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4649" w:type="dxa" />
+                        <w:vMerge />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                        w14:paraId="295CA373" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="auto" />
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="2552" w:type="dxa" />
+                        <w:tcBorders>
+                            <w:top w:val="nil" />
+                            <w:left w:val="nil" />
+                            <w:bottom w:val="nil" />
+                            <w:right w:val="nil" />
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F51A2F" w:rsidP="00980BAF" w:rsidRDefault="00F51A2F"
+                        w14:paraId="61F73B3B" w14:textId="77777777">
+                        <w:pPr>
+                            <w:spacing w:line="240" w:lineRule="auto" />
+                            <w:jc w:val="center" />
+                            <w:rPr>
+                                <w:sz w:val="10" />
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidRPr="0028600E" w:rsidR="00F51A2F" w:rsidP="00F51A2F" w:rsidRDefault="00B63A05"
+            w14:paraId="24A2644C" w14:textId="77777777">
+            <w:pPr>
+                <w:spacing w:line="14" w:lineRule="auto" />
+                <w:ind w:firstLine="0" />
+                <w:jc w:val="left" />
+                <w:rPr>
+                    <w:sz w:val="2" />
+                    <w:szCs w:val="2" />
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:noProof />
+                </w:rPr>
+                <mc:AlternateContent>
+                    <mc:Choice Requires="wps">
+                        <w:drawing>
+                            <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300"
+                                simplePos="false" relativeHeight="251659264" behindDoc="true"
+                                locked="false" layoutInCell="true" allowOverlap="true"
+                                wp14:anchorId="404948FC" wp14:editId="5681BFD7">
+                                <wp:simplePos x="0" y="0" />
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>-76200</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="page">
+                                    <wp:posOffset>10161270</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="6496685" cy="325755" />
+                                <wp:effectExtent l="0" t="0" r="19685" b="18415" />
+                                <wp:wrapSquare wrapText="bothSides" />
+                                <wp:docPr id="2" name="Надпись 1" />
+                                <wp:cNvGraphicFramePr />
+                                <a:graphic>
+                                    <a:graphicData
+                                        uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                        <wps:wsp>
+                                            <wps:cNvSpPr />
+                                            <wps:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0" />
+                                                    <a:ext cx="6496685" cy="325755" />
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst />
+                                                </a:prstGeom>
+                                                <a:solidFill>
+                                                    <a:srgbClr val="FFFFFF" />
+                                                </a:solidFill>
+                                                <a:ln w="9360">
+                                                    <a:solidFill>
+                                                        <a:schemeClr val="bg1">
+                                                            <a:lumMod val="100000" />
+                                                            <a:lumOff val="0" />
+                                                        </a:schemeClr>
+                                                    </a:solidFill>
+                                                    <a:miter />
+                                                </a:ln>
+                                            </wps:spPr>
+                                            <wps:style>
+                                                <a:lnRef idx="0">
+                                                    <a:scrgbClr r="0" g="0" b="0" />
+                                                </a:lnRef>
+                                                <a:fillRef idx="0">
+                                                    <a:scrgbClr r="0" g="0" b="0" />
+                                                </a:fillRef>
+                                                <a:effectRef idx="0">
+                                                    <a:scrgbClr r="0" g="0" b="0" />
+                                                </a:effectRef>
+                                                <a:fontRef idx="minor" />
+                                            </wps:style>
+                                            <wps:txbx>
+                                                <w:txbxContent>
+                                                    <w:p w:rsidR="00B63A05" w:rsidP="00B63A05"
+                                                        w:rsidRDefault="00B63A05"
+                                                        w14:paraId="450EB839" w14:textId="77777777">
+                                                        <w:pPr>
+                                                            <w:pStyle w:val="af4" />
+                                                            <w:spacing w:line="240"
+                                                                w:lineRule="auto" />
+                                                            <w:ind w:firstLine="0" />
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                                <w:lang w:val="en-US" />
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                            </w:rPr>
+                                                            <w:t>Исп.</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                                <w:lang w:val="en-US" />
+                                                            </w:rPr>
+                                                            <w:t xml:space="preserve">: </w:t>
+                                                        </w:r>
+                                                        <w:bookmarkStart w:name="EXECUTOR" w:id="2" />
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                                <w:lang w:val="en-US" />
+                                                            </w:rPr>
+                                                            <w:t>[</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                            </w:rPr>
+                                                            <w:t>Исполнитель</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:color w:val="000000"
+                                                                    w:themeColor="text1" />
+                                                                <w:sz w:val="16" />
+                                                                <w:szCs w:val="16" />
+                                                                <w:lang w:val="en-US" />
+                                                            </w:rPr>
+                                                            <w:t>]</w:t>
+                                                        </w:r>
+                                                        <w:bookmarkEnd w:id="2" />
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </wps:txbx>
+                                            <wps:bodyPr>
+                                                <a:noAutofit />
+                                            </wps:bodyPr>
+                                        </wps:wsp>
+                                    </a:graphicData>
+                                </a:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </mc:Choice>
+                    <mc:Fallback>
+                        <w:pict>
+                            <v:rect
+                                style="position:absolute;margin-left:-6pt;margin-top:800.1pt;width:511.55pt;height:25.65pt;z-index:-251657216;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:page;v-text-anchor:top"
+                                id="Надпись 1" o:spid="_x0000_s1026" strokecolor="white [3212]"
+                                strokeweight=".26mm">
+                                <v:textbox>
+                                    <w:txbxContent>
+                                        <w:p w:rsidR="00B63A05" w:rsidP="00B63A05"
+                                            w:rsidRDefault="00B63A05" w14:paraId="450EB839"
+                                            w14:textId="77777777">
+                                            <w:pPr>
+                                                <w:pStyle w:val="af4" />
+                                                <w:spacing w:line="240" w:lineRule="auto" />
+                                                <w:ind w:firstLine="0" />
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                    <w:lang w:val="en-US" />
+                                                </w:rPr>
+                                            </w:pPr>
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                </w:rPr>
+                                                <w:t>Исп.</w:t>
+                                            </w:r>
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                    <w:lang w:val="en-US" />
+                                                </w:rPr>
+                                                <w:t xml:space="preserve">: </w:t>
+                                            </w:r>
+                                            <w:bookmarkStart w:name="EXECUTOR" w:id="3" />
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                    <w:lang w:val="en-US" />
+                                                </w:rPr>
+                                                <w:t>[</w:t>
+                                            </w:r>
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                </w:rPr>
+                                                <w:t>Исполнитель</w:t>
+                                            </w:r>
+                                            <w:r>
+                                                <w:rPr>
+                                                    <w:color w:val="000000" w:themeColor="text1" />
+                                                    <w:sz w:val="16" />
+                                                    <w:szCs w:val="16" />
+                                                    <w:lang w:val="en-US" />
+                                                </w:rPr>
+                                                <w:t>]</w:t>
+                                            </w:r>
+                                            <w:bookmarkEnd w:id="3" />
+                                        </w:p>
+                                    </w:txbxContent>
+                                </v:textbox>
+                                <w10:wrap type="square" anchory="page" />
+                            </v:rect>
+                        </w:pict>
+                    </mc:Fallback>
+                </mc:AlternateContent>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidRPr="0028600E" w:rsidR="00F51A2F" w:rsidSect="00EC0337">
+            <w:headerReference w:type="default" r:id="rId10" />
+            <w:pgSz w:w="11908" w:h="16848" w:code="9" />
+            <w:pgMar w:top="567" w:right="567" w:bottom="1134" w:left="1134" w:header="142"
+                w:footer="142" w:gutter="0" />
+            <w:pgNumType w:start="1" />
+            <w:cols w:space="720" />
+            <w:titlePg />
+            <w:docGrid w:linePitch="381" />
+        </w:sectPr>
+    </w:body>
+</w:document>

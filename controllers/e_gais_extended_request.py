@@ -22,29 +22,31 @@ class EGAISExtendedRequest(AbstractRequestExtended):
 
     def make_request(self, license_id, token):
         try:
-            url = self._build_url(license_id)
-            headers = {
-                'Authorization': f'Bearer {token}',
-                # 'Cookie': f'JSESSIONID={jsessionid}'
-            }
-            logger.info(f"Sending request to {url}")
-            response = requests.get(url, headers=headers, verify=False)
-            response.raise_for_status()  # Проверка на ошибки HTTP
-            logger.info(f"Received response with status code {response.status_code}")
-            append_text_to_file("save_report/"+res_file,f'''* Получаем extendet по requestid {license_id}''')
-            append_text_to_file("save_report/"+res_file,f'''
-{{{{collapse({self.base_url})
-    response code - {response.status_code}
-    <pre><code class='json'>
-    {response.json()}
-    </code></pre>
-}}}}                     
-                                ''')
-            self.response=response.json()
-            return response.json()
+            if token:
+                url = self._build_url(license_id)
+                headers = {
+                    'Authorization': f'Bearer {token}',
+                    # 'Cookie': f'JSESSIONID={jsessionid}'
+                }
+                logger.info(f"Sending request to {url}")
+                response = requests.get(url, headers=headers, verify=False)
+                response.raise_for_status()  # Проверка на ошибки HTTP
+                logger.info(f"Received response with status code {response.status_code}")
+                append_text_to_file("save_report/"+res_file,f'''* Получаем extendet по requestid {license_id}''')
+                append_text_to_file("save_report/"+res_file,f'''
+    {{{{collapse({self.base_url})
+        response code - {response.status_code}
+        <pre><code class='json'>
+        {response.json()}
+        </code></pre>
+    }}}}                     
+                                    ''')
+                self.response=response.json()
+                return response.json()
         except requests.exceptions.RequestException as e:
             logger.error(f"Request failed: {e}")
-            raise
+        else:
+            logger.error(f"Request failed:token {token} is NULL")
 
     def _build_url(self, license_id):
         return f"{self.base_url}/{license_id}/extended"

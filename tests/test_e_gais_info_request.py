@@ -58,7 +58,7 @@ class TestEGAISInfoRequest(unittest.TestCase):
             logger.info(f"Получили токен {self.token}")
         else:
             self.token=token
-        self.jsessionid = '2D76793EF3BDCC914ECF896C887FB2AA'
+        # self.jsessionid = '2D76793EF3BDCC914ECF896C887FB2AA'
         
         
 

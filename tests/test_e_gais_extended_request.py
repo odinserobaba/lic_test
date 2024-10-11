@@ -1,6 +1,7 @@
 import unittest
 import json
 from controllers.e_gais_extended_request import EGAISExtendedRequest
+from controllers.e_gais_info_request import EGAISInfoRequest
 from controllers.e_gais_request import EGAISRequest
 from settings import token,requestid,blistRegionCodes,bregionCode,brole
 import logging
@@ -20,6 +21,8 @@ class TestEGAISExtendedRequest(unittest.TestCase):
     def get_token(self):
         token_base_url = 'https://lk-test.egais.ru/api-lc-license/tools/token'
         info_base_url = 'https://lk-test.egais.ru/api-lc-license/dashboard/license/request'
+        
+        logger.info(f"get_token {brole} {bregionCode} {blistRegionCodes} {listRegionCodes}")
         if brole!="":
             role = brole
         else:
@@ -61,7 +64,17 @@ class TestEGAISExtendedRequest(unittest.TestCase):
             self.token=token
         # self.jsessionid = '2D76793EF3BDCC914ECF896C887FB2AA'
 
+
     def test_json_structure(self):
+        
+        if token=="":
+            self.token = self.get_token()
+            logger.info(f"Получили токен {self.token}")
+        else:
+            self.token=token
+            logger.info(f"Используем старый токен {self.token}")
+        if self.token is None:
+            logging.error(f"test_json_structure token {self.token}")
         response = self.request_instance.make_request(self.license_id, self.token)
         if response is None:
             self.fail("Response text is None")
